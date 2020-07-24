@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "589805286402",
+    "firebase_url": "https://sharinglocation-4cce3.firebaseio.com",
+    "project_id": "sharinglocation-4cce3",
+    "storage_bucket": "sharinglocation-4cce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589805286402:android:c1b84828b95b3b08aae31b",
+        "android_client_info": {
+          "package_name": "com.example.sharinglocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589805286402-md4ba9jap076o4dop1t9jpudkf3d1pe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEboJA5WLVYdqNDuijnVS19_jxTNuNGjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589805286402-md4ba9jap076o4dop1t9jpudkf3d1pe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
